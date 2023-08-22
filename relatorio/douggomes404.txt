@@ -1,0 +1,43 @@
+Relatório do usuário douggomes404:
+
+Nome: None
+Perfil: https://github.com/douggomes404
+Número de repositórios públicos: 17
+Número de seguidores: 0
+Número de usuários seguidos: 0
+
+Lista de Repositórios:
+- api-front: https://github.com/douggomes404/api-front
+  Linguagens utilizadas: CSS, Vue, JavaScript, HTML
+- aprendendo_github: https://github.com/douggomes404/aprendendo_github
+  Linguagens utilizadas: Hack
+- busca-rapida-api: https://github.com/douggomes404/busca-rapida-api
+  Linguagens utilizadas: Java
+- BuscaCep: https://github.com/douggomes404/BuscaCep
+  Linguagens utilizadas: PHP
+- Buscar-reposer: https://github.com/douggomes404/Buscar-reposer
+  Linguagens utilizadas: N/A
+- Drupal9: https://github.com/douggomes404/Drupal9
+  Linguagens utilizadas: PHP, JavaScript, CSS, Twig, HTML, SCSS, Shell
+- facebook-copy: https://github.com/douggomes404/facebook-copy
+  Linguagens utilizadas: PHP, JavaScript, CSS, Hack
+- facebookoophp: https://github.com/douggomes404/facebookoophp
+  Linguagens utilizadas: PHP, CSS, JavaScript
+- Larateste: https://github.com/douggomes404/Larateste
+  Linguagens utilizadas: PHP, Blade, Vue
+- MercadoPy: https://github.com/douggomes404/MercadoPy
+  Linguagens utilizadas: Python
+- nodets-canil: https://github.com/douggomes404/nodets-canil
+  Linguagens utilizadas: TypeScript, CSS, Mustache, Procfile
+- nodjs-api-rest: https://github.com/douggomes404/nodjs-api-rest
+  Linguagens utilizadas: N/A
+- poe_random: https://github.com/douggomes404/poe_random
+  Linguagens utilizadas: Mustache, TypeScript, CSS
+- randolezer: https://github.com/douggomes404/randolezer
+  Linguagens utilizadas: CSS, JavaScript, PHP
+- treinamento_everis_git: https://github.com/douggomes404/treinamento_everis_git
+  Linguagens utilizadas: N/A
+- Treino_Git_eve: https://github.com/douggomes404/Treino_Git_eve
+  Linguagens utilizadas: N/A
+- zelda: https://github.com/douggomes404/zelda
+  Linguagens utilizadas: Python
