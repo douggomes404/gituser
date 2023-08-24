@@ -1,4 +1,4 @@
-# modules/app.py
+
 import os
 from modules.github_api import GithubAPI
 from modules.report_generator import ReportGenerator
